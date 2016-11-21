@@ -1,5 +1,8 @@
 #KIM HART ANSWERS
 
+###GITHUB PAGES
+View working project [here](https://kimhart.github.io/mediatate/).
+
 ###PREFACE
 
 I built this project into a Node/Express server and used Gulp, Sass and Babel for my build just to emulate my normal workflow. I built an npm Sass compiler so I could use Sass over basic CSS, used Babel to compile the ES6 syntax in my JS, and Gulp to compile and minify all my CSS/JS for faster load times. 
